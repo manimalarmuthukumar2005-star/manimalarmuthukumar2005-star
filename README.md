@@ -12,7 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=manimalarmuthukumar2005-star&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manimalarmuthukumar2005-star&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=manimalarmuthukumar2005-star&icon=7&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manimalarmuthukumar2005-star&icon=9&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
